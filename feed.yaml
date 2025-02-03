@@ -6,6 +6,7 @@ image: /images/artwork.jpg
 language: en-us
 category: Technology
 format: audio/mpeg
+link: https://mirekoso1221.github.io/test
 item:
   - title: EP01-What's Happening in 2023
     description: Ray Villalobos and Content Managers Natalie Pao and Simon St. Laurent discuss what 2023 holds for the future in technology.
@@ -19,7 +20,7 @@ item:
     file: /audio/TFIT02.mp3
     duration: 00:00:22
     length: 351,963
-  - title: EP03-How Generative AI Will Change DevOps
+  - title: EP03-How Generative AI Will Change DevOpsgit init -b main
     description:  Jerome Hardaway explores how generative AI can revolutionize the software development process by increasing efficiency, automating repetitive tasks, and creating more sophisticated and innovative solutions.
     published: Thu, 26 Jan 2023 18:00:00 GMT
     file: /audio/TFIT03.mp3
